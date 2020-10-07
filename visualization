@@ -1,0 +1,10 @@
+# Visualization
+
+## Tensor shape visualization during manipulation
+Tensor Sensor package
+### Installation
+```
+pip install tensor-sensor
+```
+### Usage
+![Usage](images/tensor_sensor.png)
